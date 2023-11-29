@@ -6,8 +6,8 @@ import { Icon } from '@plone/volto/components';
 import {
   deleteBookmark,
   getAllBookmarks,
-} from '@eeacms/volto-freshwater-policy/actions/boards';
-import { useCopyToClipboard } from '@eeacms/volto-freshwater-policy/helpers';
+} from '@eeacms/volto-favboard/actions/boards';
+import { useCopyToClipboard } from '@eeacms/volto-favboard/helpers';
 
 import clearSVG from '@plone/volto/icons/delete.svg';
 import linkSVG from '@plone/volto/icons/link.svg';

@@ -7,7 +7,7 @@ import { Icon } from '@plone/volto/components';
 import {
   getAllBookmarks,
   modifyBookmark,
-} from '@eeacms/volto-freshwater-policy/actions/boards';
+} from '@eeacms/volto-favboard/actions/boards';
 import queryString from 'query-string';
 import clearSVG from '@plone/volto/icons/delete.svg';
 import moment from 'moment';

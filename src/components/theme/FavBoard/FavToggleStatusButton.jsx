@@ -5,7 +5,7 @@ import cx from 'classnames';
 import {
   getAllBookmarks,
   modifyBookmark,
-} from '@eeacms/volto-freshwater-policy/actions';
+} from '@eeacms/volto-favboard/actions';
 import './toggle.less';
 
 const ToggleButton = (props) => {

@@ -6,10 +6,10 @@ import { Icon } from '@plone/volto/components';
 import {
   addItemToBasket,
   removeItemFromBasket,
-} from '@eeacms/volto-freshwater-policy/actions/basket';
+} from '@eeacms/volto-favboard/actions/basket';
 
 import starSVG from '@plone/volto/icons/half-star.svg';
-import starFullSVG from '@eeacms/volto-freshwater-policy/icons/star-full.svg';
+import starFullSVG from '@eeacms/volto-favboard/icons/star-full.svg';
 import './style.less';
 
 const getSize = (size) => {

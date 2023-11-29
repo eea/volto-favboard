@@ -15,13 +15,13 @@ import {
   ItemMetadataSnippet,
   FavBoardComments,
   FavItemToolbar,
-} from '@eeacms/volto-freshwater-policy/components';
+} from '@eeacms/volto-favboard/components';
 import {
   getAllBookmarks,
   deleteBookmark,
-} from '@eeacms/volto-freshwater-policy/actions/boards';
-import { deStringifySearchquery } from '@eeacms/volto-freshwater-policy/utils';
-import { useCopyToClipboard } from '@eeacms/volto-freshwater-policy/helpers';
+} from '@eeacms/volto-favboard/actions/boards';
+import { deStringifySearchquery } from '@eeacms/volto-favboard/utils';
+import { useCopyToClipboard } from '@eeacms/volto-favboard/helpers';
 import ToggleButton from './FavToggleStatusButton';
 
 import backSVG from '@plone/volto/icons/back.svg';

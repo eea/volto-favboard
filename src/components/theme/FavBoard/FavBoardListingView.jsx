@@ -8,7 +8,7 @@ import { Portal } from 'react-portal';
 import { Toolbar, Icon } from '@plone/volto/components';
 import { BodyClass } from '@plone/volto/helpers';
 import { Tab, Menu, Button } from 'semantic-ui-react';
-import { getAllBookmarks } from '@eeacms/volto-freshwater-policy/actions/boards';
+import { getAllBookmarks } from '@eeacms/volto-favboard/actions/boards';
 import backSVG from '@plone/volto/icons/back.svg';
 import starSVG from '@plone/volto/icons/half-star.svg';
 import zoomSVG from '@plone/volto/icons/zoom.svg';
