@@ -19,7 +19,8 @@
 
 ## Features
 
-Demo GIF
+![favboards](https://github.com/eea/volto-favboard/assets/20109479/4ecb805c-c1c7-4ea0-a4f4-826ddb35de31)
+
 
 ## Getting started
 
