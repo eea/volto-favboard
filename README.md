@@ -3,16 +3,16 @@
 [![Releases](https://img.shields.io/github/v/release/eea/volto-favboard)](https://github.com/eea/volto-favboard/releases)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-favboard%2Fmaster&subject=master)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-favboard/job/master/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-master&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-master)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-master&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-master)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-master&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-master)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-master&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-master)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-favboard%2Fdevelop&subject=develop)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-favboard/job/develop/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-develop)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-develop)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-develop)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard-develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard-develop)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&branch=develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard&branch=develop)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&branch=develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard&branch=develop)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&branch=develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard&branch=develop)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-favboard&branch=develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-favboard&branch=develop)
 
 
 [Volto](https://github.com/plone/volto) add-on
